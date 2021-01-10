@@ -1,0 +1,3 @@
+# configurador
+
+Editor de configuraciones 
